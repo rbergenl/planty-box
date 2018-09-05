@@ -15,7 +15,9 @@ Application to run a hydroponic box to grow plants based on a recipe
     - press the "add" button.
     - popup: please select a wifi network (ssid), next is please provide the password, ok button.
     - popup: select the plantybox from the 'peripherals' list, if not visible push the button on the box (bluetooth will be enabled for 1 minute).
-    - press "ok" (box will be setup with the wifi config).
+    - press "ok" (box will be setup with the wifi config; and iot policy will be attached to it for the user).
 
 3. Open the box
-    - see the box added to  your list, click to open.
+    - see the box added to your list (in web or native app)
+    - click to open (iot client will be opened to read and write shadow state).
+    - push button "test" and see LED turned on, and status being updated in web and native app.
