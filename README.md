@@ -2,7 +2,7 @@
 Application to run a hydroponic box to grow plants based on a recipe
 
 # Getting started - User Flow
-![](docs/images/setup-flow.png)
+![](docs/images/setup_flow.png)
 
 1. Scan QR code
     - the browser opens to planty.com/first_time (congratulations with your planty box, it is awesome, etc..).
