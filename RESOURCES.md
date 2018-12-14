@@ -8,7 +8,16 @@
 - https://www.raspberrypi.org/resources/learn/
 - https://projects.raspberrypi.org/en/projects/physical-computing
 - https://trinket.io/sense-hat
+- https://www.dexterindustries.com/howto/run-a-program-on-your-raspberry-pi-at-startup/
 
+## Electrical circuit basics
+- https://www.electronics-tutorials.ws/logic/pull-up-resistor.html
+
+## Bluetooth
+- https://github.com/noble/bleno
+
+## Temperature/Humidity sensor
+- http://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-the-raspberry-pi/
 
 ## AWS IoT
 - https://docs.aws.amazon.com/iot/latest/developerguide/iot-sdk-setup.html
