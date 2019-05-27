@@ -68,3 +68,32 @@ exec('wpa_cli -i wlan0 reconfigure');
 - Use an online calculator to check the resistance color codes. If you see 2 blacks, hold that to the left; if you see a gold; hold that to the right. With 5 bands is "value1, value2, value3, multiplier, tolerance".
 - Connect LED cathode (short leg) to ground (place resistance between), and the anode (long leg) to a GPIO pin.
 - Connect Button lefttop leg to GPIO pin; and righttop leg to ground via resistance. Then, input 5v to rightbottom leg.
+
+# Used Resources
+
+## Hydroponics
+- https://github.com/novemberalpha/openag_brain_pfc1_config
+
+## Raspberry Pi
+- https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp
+- https://www.raspberrypi.org/resources/learn/
+- https://projects.raspberrypi.org/en/projects/physical-computing
+- https://trinket.io/sense-hat
+- https://www.dexterindustries.com/howto/run-a-program-on-your-raspberry-pi-at-startup/
+
+## Electrical circuit basics
+- https://www.electronics-tutorials.ws/logic/pull-up-resistor.html
+
+## Bluetooth
+- https://github.com/noble/bleno
+
+## Temperature/Humidity sensor
+- http://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-the-raspberry-pi/
+
+## AWS IoT
+- https://docs.aws.amazon.com/iot/latest/developerguide/iot-sdk-setup.html
+- https://github.com/aws/aws-iot-device-sdk-js
+- https://medium.com/@rohanmaheshwari/using-aws-iot-with-the-js-sdk-node-to-turn-an-led-on-and-off-with-a-raspberry-pi-be43346a5bd4
+- https://docs.aws.amazon.com/iot/latest/developerguide/protocols.html
+- https://github.com/aws-samples/aws-iot-examples
+- https://github.com/aws-samples/aws-iot-chat-example
