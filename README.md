@@ -21,3 +21,6 @@ Application to run a hydroponic box to grow plants based on a recipe
     - see the box added to your list (in web or native app)
     - click to open (iot client will be opened to read and write shadow state).
     - push button "test" and see LED turned on, and status being updated in web and native app.
+
+# Market
+- https://www.kickstarter.com/projects/ogarden/ogarden-smart
